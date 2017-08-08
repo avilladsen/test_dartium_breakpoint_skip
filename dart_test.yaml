@@ -1,0 +1,4 @@
+platforms: [dartium]
+reporter: expanded
+test_on: browser
+pub_serve: 8080
